@@ -1,0 +1,6 @@
+.idea
+vendor
+index.php
+konsola.bat
+*.sublime-project
+*.sublime-workspace
